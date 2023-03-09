@@ -30,5 +30,5 @@ git diff: Shows a side-by-side comparison of the conflicting changes in the file
 git mergetool: Launches a graphical tool to help resolve the conflict.
 git add [file]: Marks the file as resolved and ready to be committed.
 git commit: Commits the changes to the repository.
-It's important to note that conflicts can be time-consuming and difficult to resolves, especially in large and complex codebases.
+It's important to note that conflicts can be time-consuming and difficult to resolve, especially in large and complex codebases.
  To avoid conflicts, it's often a good practice to work on separate branches or files whenever possible, and to regularly pull changes from other developers to keep the codebase up to date.
